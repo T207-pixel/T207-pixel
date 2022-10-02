@@ -3,5 +3,5 @@
 </div>
 
 <div align = "center">
-  [![Vkontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/jasmine_crol)
+ [![Vkontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/jasmine_crol)
 </div>

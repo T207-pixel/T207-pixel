@@ -17,7 +17,7 @@
 </h1>
 
 ### About Me:
--  Studying in Moscow engineering physical institute.
+-  Studying at Moscow engineering physical institute.
 -  My speciality is informatics and computer engineering.
 -  I prefer improving skills in various computer science spheres.
 

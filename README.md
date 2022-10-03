@@ -2,8 +2,21 @@
   <img src="https://media.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif" width="100"/>
 </div>
 
-____
+<div id="badges" align="center">
+  <a href="https://vk.com/jasmine_crol">
+    <img src = "https://img.shields.io/badge/VK-005d90?style=for-the-badge&logo=VK" />
+  </a>
+  <a href="<a href="https://vk.com/jasmine_crol">
+    <img src = "https://img.shields.io/badge/Telegram-00a3dc?style=for-the-badge&logo=Telegram" />
+  </a> 
+</div>
 
-_MY contacts_
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=T207-pixel&style=flat-square&color=blue" alt=""/>
+</div>
 
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk)](https://vk.com/jasmine_crol)
+<h1 align="center">
+  Welcom to my GitHub :avocado:
+</h1>
+
+### About Me:

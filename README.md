@@ -6,6 +6,9 @@
   <a href="https://vk.com/jasmine_crol">
     <img src = "https://img.shields.io/badge/VK-005d90?style=for-the-badge&logo=VK" />
   </a>
+  <a href="https://t.me/Slacked_DuDe">
+    <img src = "https://img.shields.io/badge/Telegram-458ae6?style=for-the-badge&logo=Telegram" />
+  </a>
 </div>
 
 <div align="center">

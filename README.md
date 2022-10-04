@@ -7,7 +7,7 @@
     <img src = "https://img.shields.io/badge/VK-005d90?style=for-the-badge&logo=VK" />
   </a>
   <a href="https://t.me/Slacked_DuDe">
-    <img src = "https://img.shields.io/badge/Telegram-458ae6?style=for-the-badge&logo=Telegram" />
+    <img src = "https://img.shields.io/badge/Telegram-5284c7?style=for-the-badge&logo=Telegram" />
   </a>
 </div>
 

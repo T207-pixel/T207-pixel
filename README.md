@@ -1,6 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif" width="100"/>
+  <img src="https://github.com/T207-pixel/T207-pixel/blob/main/avatar.png" width="200/">
 </div>
+
+<!--
+  <div id="header" align="center">
+    <img src="https://media.giphy.com/media/BzyTuYCmvSORqs1ABM/giphy.gif" width="100"/>
+  </div>
+-->
 
 <div id="badges" align="center">
   <a href="https://vk.com/jasmine_crol">
